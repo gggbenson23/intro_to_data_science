@@ -3,6 +3,6 @@ This repository contains projects and visualizations created from the Data Scien
 
 ## SQL
 
-## Statistics
+### Statistics
 
 ## Visual Communications
